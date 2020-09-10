@@ -62,9 +62,9 @@ function updateFilters(data) {
   // 7. Use this function to filter the table when data is entered.
   function filterTable() {
 
+
   // 2. Attach an event to listen for changes to each filter
   d3.selectALL("input").on("change",updateFilters);
-
 
     // 8. Set the filtered data to the tableData.
     
