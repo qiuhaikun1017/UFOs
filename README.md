@@ -10,7 +10,9 @@ In the initial dataset, 6 information about each UFO observation are given. Thos
 
 In order to demonstrate how to properly use this web filter, we will first give a brief introduction about what this web page looks like.
 
-!()[]
+!()[Screenshot.png]
+
+
 As the above image shows, there are five filters that are listed on the left section of the webpage: Date, City, State, Country and Shape. In each filter, users are allowed to input text. This filter section is designed to perform multitask, which means users can input single filter or multiple filters at the same time, depending on their own preference.
 
 On the right side of the webpage, you will see a full list of data that is imported from the initial dataset. Before any filter is actioned, this section shows the full information of the dataset. For each row of UFO observation, all 6 information and 1 comment are presented in each row.
